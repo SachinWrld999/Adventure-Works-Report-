@@ -46,7 +46,7 @@ To get started with the AdventureWorks Power BI Report, follow these steps:
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/AdventureWorks-Report.git
+[git clone https://github.com/your-username/AdventureWorks-Report.git](https://github.com/SachinWrld999/Adventure-Works-Report-)
 Open the Power BI file (.pbix) in Power BI Desktop.
 Connect to the AdventureWorks dataset.
 Refresh the data to ensure the latest information is loaded.
